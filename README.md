@@ -1,2 +1,0 @@
-# 21_Js_DOM_Cogul_Element_Secimi
-21_Js_DOM_Cogul_Element_Secimi
